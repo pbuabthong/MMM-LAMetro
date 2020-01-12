@@ -1,4 +1,4 @@
-# Module: Pasadena Transit
+# Module: LA Metro
 
 This [MagicMirror][mm] module shows real-time departures of [LA Metro][lametro] buses. 
 Magic Mirror module for LA Metro. Real-time LA Metro departures.
