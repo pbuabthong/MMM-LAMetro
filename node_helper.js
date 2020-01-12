@@ -1,6 +1,5 @@
 var request = require('request');
 var fs = require('fs');
-var parseString = require('xml2js').parseString;
 var NodeHelper = require('node_helper');
 
 var ptHelper = require('./pt_helper.js');
