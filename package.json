@@ -1,0 +1,17 @@
+{
+  "name": "mmm-lametro",
+  "version": "1.0.0",
+  "description": "MagicMirror module for Real-time bus arrivals of LA Metro",
+  "main": "MMM-LAMetro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "magicmirror",
+    "lametro"
+  ],
+  "author": "Pai Pakpoom Buabthong",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
